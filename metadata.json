@@ -1,0 +1,5 @@
+{
+  "name": "KUNJIRAATI-AI Solution",
+  "description": "Universal AI Math Assistant for solving equations, graphing, and step-by-step learning.",
+  "requestFramePermissions": ["camera"]
+}
